@@ -1,2 +1,2 @@
 # blog_repository
-博客的仓库
+hexo blog repository
