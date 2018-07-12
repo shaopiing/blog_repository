@@ -75,6 +75,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+# Share
+# This plugin is more useful in China, make sure you known how to use it.
+# And you can find the use guide at official webiste: http://www.jiathis.com/.
+# Warning: JiaThis does not support https.
+jiathis: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
