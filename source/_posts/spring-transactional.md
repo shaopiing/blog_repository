@@ -75,6 +75,7 @@ public void createUserPublic(UserEntity entity) {
 **@Transactional 生效原则 2，必须通过代理过的类从外部调用目标方法才能生效**
 
 {% asset_img b077c033fa394353309fbb4f8368e46c_20211125100250916.jpg This is an image %}
+![](spring-transactional/b077c033fa394353309fbb4f8368e46c_20211125100250916.jpg)
 
 
 ### 
