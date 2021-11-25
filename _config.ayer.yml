@@ -204,8 +204,8 @@ friends_link:
 # 启用Valine必须先创建leancloud应用， 获取 id|key 填入即可
 leancloud:
   enable: true
-  app_id: #
-  app_key: #
+  app_id: 3TOGtSWyn8KKXFjY1x3Dsh8c-gzGzoHsz
+  app_key: z3xLd7CvMvqMzi7IMltjEoDQ
 # Valine配置
 valine:
   enable: true # 是否启用
