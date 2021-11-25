@@ -4,6 +4,8 @@ date: 2016-10-21 00:01:10
 category: 前端
 tags: [Program,前端]
 ---
+AngularJS常用特性
+<!--more-->
 **13、使用路由和 $location 切换视图**
 
 　　对于一些单页面应用来说，有时候需要为用户展示或者隐藏一些子页面视图，可以利用 Angular 的 $route 服务来管理这种场景。

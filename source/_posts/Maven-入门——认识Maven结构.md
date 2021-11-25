@@ -4,6 +4,8 @@ date: 2018-07-23 23:23:35
 tags: "Program"
 ---
 
+Maven入门篇。
+<!--more-->
 ### 1、settings.xml 元素解读
 **localRepository**
 该元素表示本地 Maven 仓库的地址，不设置的话，默认为 `~/.m2/repository`

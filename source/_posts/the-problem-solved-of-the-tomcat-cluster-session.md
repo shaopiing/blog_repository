@@ -4,6 +4,8 @@ date: 2017-10-26 00:49:13
 category: 程序人生
 tags: [Program,ProblemFixed]
 ---
+疑难杂症
+<!--more-->
 **1、配置 Tomcat 集群 session 共享**
 
 之前系统多节点的运行，之间的 session 共享的策略使用 nginx 的 ip hash 的策略，这种方式是配置简单，只需要在 nginx 的配置文件中添加 ip_hash 即可实现按照 IP 轮询的方式根据客户端的 IP 进行负载均衡。

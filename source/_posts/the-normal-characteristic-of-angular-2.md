@@ -4,6 +4,8 @@ date: 2016-07-25 00:05:10
 category: 前端
 tags: [Program,前端]
 ---
+AngularJS常用特性
+<!--more-->
 3、列表、表格以及其他迭代型元素
 
 ng-repeat 可能是最有用的 Angular 指令了，它可以根据集合中的项目一次创建一组元素的多份拷贝。

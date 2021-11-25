@@ -3,6 +3,8 @@ title: Maven 入门——认识 Maven
 date: 2018-09-15 03:17:02
 tags: "Program"
 ---
+Maven 入门篇。
+<!--more-->
 
 ## 认识 Maven
 

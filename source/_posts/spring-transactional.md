@@ -3,11 +3,10 @@ title: Spring中的事务使用注意事项
 date: 2018-11-10 10:23:44
 tags: "Program"
 ---
-# Spring中的事务使用注意事项
 
 Spring 针对 Java Transaction API (JTA)、JDBC、Hibernate 和 Java Persistence API (JPA) 等事务 API，实现了一致的编程模型，而 Spring 的声明式事务功能更是提供了极其方便的事务配置方式，配合 Spring Boot 的自动配置，大多数 Spring Boot 项目只需要在方法上标记 @Transactional 注解，即可一键开启方法的事务性配置。
 
-
+<!--more-->
 
 写法一：
 

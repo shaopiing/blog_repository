@@ -4,6 +4,8 @@ date: 2017-07-02 00:04:13
 category: 程序人生
 tags: [Program,设计模式]
 ---
+聊一下设计模式。
+<!--more-->
 ### 1、单一职责原则(Single Responsibility Principle，SRP)
 
 > 定义：一个类只负责一个功能领域中相应职责

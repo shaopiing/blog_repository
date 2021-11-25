@@ -4,6 +4,9 @@ date: 2018-08-01 23:16:56
 tags: "Program"
 ---
 
+Maven 入门篇。
+<!--more-->
+
 ## 二、Maven 的安装和配置
 ### 1、安装
 **Windows 环境**

@@ -9,6 +9,8 @@ tags: [旅游,青岛]
 > 一是人文风情游之老城区  
 > 二是滨海风光游之沿海区
 
+<!--more-->
+
 ![](http://p8bc1hri5.bkt.clouddn.com/the-journey-of-qingdao-1.png)
 
 

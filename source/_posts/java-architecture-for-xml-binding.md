@@ -6,6 +6,8 @@ tags: [Program,WikiKnowledge]
 ---
 > 最近因为工作需要，有一些把数据转化成 XML 文件的需求，所以就研究了下 JAXB。
 
+<!--more-->
+
 JAXB（Java Architecture for XML Binding 简称 JAXB）允许 Java 开发人员将 Java 类映射为 XML 表示方式。
 JAXB 提供两种主要特性：将一个 Java 对象序列化为 XML，以及反向操作，将 XML 解析成 Java 对象。
 换句话说，JAXB 允许以 XML 格式存储和读取数据，而不需要程序的类结构实现特定的读取 XML 和保存 XML 的代码.
