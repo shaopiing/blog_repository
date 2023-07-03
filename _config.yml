@@ -5,15 +5,15 @@
 # Site
 title: 少平沉思录
 subtitle: ''
-description: ''
+description: '少平的点滴思考'
 keywords:
-#author: John Doe
+author: 少平
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://shaopiing.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,12 +101,11 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: ayer
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo:
-    github: git@github.com:zhangsubiin/zhangsubiin.github.io.git
+  repo: git@github.com:shaopiing/shaopiing.github.io.git
   branch: master
