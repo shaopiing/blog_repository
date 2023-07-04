@@ -17,7 +17,7 @@ tags: [A Learning A Day]
 心力构成的如一个冰山模型，底层看不见的 才是我们的内在，上面所谓的领导风格是我们要扮演的角色，有时候这两者未必是一致的，风格和内在性格没有关联，内心的纠结可能会无法面对，这就是一个我们要破解的一个难题。
 
 {% asset_img f6ce93b43ec875eee616778664a7c0e7.jpeg This is an image %}
-![](a-learning-a-day-21-12-16/f6ce93b43ec875eee616778664a7c0e7.jpeg)
+<!-- ![](a-learning-a-day-21-12-16/f6ce93b43ec875eee616778664a7c0e7.jpeg) -->
 
 
 
